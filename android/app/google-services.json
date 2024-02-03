@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933337200494",
+    "project_id": "clean-rlg",
+    "storage_bucket": "clean-rlg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933337200494:android:86a7868eb8df17b759b37f",
+        "android_client_info": {
+          "package_name": "com.example.clean_rlg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhgBCDnolc6Ww8ICZFwJKiI4AGfiBpj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
